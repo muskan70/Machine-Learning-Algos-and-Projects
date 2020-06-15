@@ -1,3 +1,4 @@
+#Display image using opencv only
 import cv2
 
 img=cv2.imread('minion.jpg')

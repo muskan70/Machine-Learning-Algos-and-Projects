@@ -1,5 +1,6 @@
 import cv2
 
+#face detection using haarcascade classifier
 cap=cv2.VideoCapture(0)
 face_cascade=cv2.CascadeClassifier("haarcascade_frontalface_alt.xml")
 

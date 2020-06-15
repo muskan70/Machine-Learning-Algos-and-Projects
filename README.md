@@ -1,5 +1,12 @@
 # ML-Projects-code
 
+#### This repository consists of basics of various libraries :
+
+1. Python basics
+
+2. Opencv basics
+
+
 #### This repository consists of various Machine learning algorithms implemented from scratch :
 
 1. Linear Regression
@@ -18,7 +25,7 @@
 
 8. Decision Trees and Random Forests
 
-#### It also contains projects based on some of these algorithms :
+#### This repository contains projects based on some of these algorithms :
 
 1. Face Recognition
 
