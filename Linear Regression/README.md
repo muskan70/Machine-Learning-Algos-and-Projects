@@ -1,4 +1,5 @@
 # Linear Regression Algorithm
+
 It is a supervised machine learning algorithm used to predict continuous values.
 
 ## Different implementations related to linear regression algorithm :
@@ -22,3 +23,12 @@ It is a supervised machine learning algorithm used to predict continuous values.
 9. Closed Form Solution Of Linear Regression
 
 10. Locally Weighted Regression(LOWESS)
+
+### Error Rule: 
+
+Total error = sum of i=1 to m (Yi - h(Xi))^2
+
+### Update Rule:
+
+theta(j) = theta(j) - learning_rate * (sum of i=1 to m (H(Xi)-Yi)*Xij)
+
