@@ -6,6 +6,14 @@
 
 2. Opencv basics
 
+3. Numpy basics
+
+4. Pandas basics
+
+5. Data Generation basics
+
+6. Data Visualization basics
+
 
 #### This repository consists of various Machine learning algorithms implemented from scratch :
 
@@ -25,9 +33,28 @@
 
 8. Decision Trees and Random Forests
 
+
 #### This repository contains projects based on some of these algorithms :
 
-1. Face Recognition
+1. MNIST Handwritten Digits Recognition
 
-2. Image Segmentation 
+2. Face Recognition
 
+3. Movie Rating Prediction 
+
+4. Image Segmentation 
+
+5. Image Classification
+
+
+#### This repository contains challenges based on some of these algorithms :
+
+1. Hardwork Pays off
+
+2. Air Quality Prediction
+
+3. Chemicals Segregation 
+
+4. Diabetes Classification
+
+5. Make Snapchat like filters

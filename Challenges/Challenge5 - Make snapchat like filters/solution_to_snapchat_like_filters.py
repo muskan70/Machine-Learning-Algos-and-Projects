@@ -2,8 +2,9 @@ import cv2
 import numpy as np
 import pandas as pd
 
-eye_cascade=cv2.CascadeClassifier("./Train/third-party/frontalEyes35x16.xml")
-nose_cascade=cv2.CascadeClassifier("./Train/third-party/Nose18x15.xml")
+eye_cascade=cv2.CascadeClassifier("/home/muskan/mydata/ML-Projects-code/challenges/Challenge5 - Make snapchat like filters/frontalEyes35x16.xml")
+nose_cascade=cv2.CascadeClassifier("/home/muskan/mydata/ML-Projects-code/challenges/Challenge5 - Make snapchat like filters/Nose25x15.xml")
+print(eye_cascade,nose_cascade)
 
 face_frame=cv2.imread('Test/Before.png')
 glass_frame=cv2.imread('Train/glasses.png',-1)

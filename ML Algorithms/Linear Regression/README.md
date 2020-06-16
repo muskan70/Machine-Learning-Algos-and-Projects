@@ -8,21 +8,19 @@ It is a supervised machine learning algorithm used to predict continuous values.
 
 2. Linear Regression Implementation using change in error instead of max iterations
 
-3. 3D Data Visualizations
+3. Gradient Descent Visualization
 
-4. Gradient Descent Visualization
+4. Multivariate Regression Implementation
 
-5. Multivariate Regression Implementation
+5. Sklearn Linear Regression Implementation
 
-6. Sklearn Linear Regression Implementation
+6. Non Linear boundary generation using linear regression model
 
-7. Non Linear boundary generation using linear regression model
+7. Stochastic and Mini Batch Gradient Descent Algorithm implementation
 
-8. Stochastic and Mini Batch Gradient Descent Algorithm implementation
+8. Closed Form Solution Of Linear Regression
 
-9. Closed Form Solution Of Linear Regression
-
-10. Locally Weighted Regression(LOWESS)
+9. Locally Weighted Regression(LOWESS)
 
 ### Error Rule: 
 
