@@ -20,6 +20,7 @@ P(B)   = Normalization term
 - Multivariate Bernoulli Naive Bayes : Feature vector is a boolean array of words present in documents
 
 - Guassian Naive Bayes : It is used for continuous values.
+
   
 ### This code includes:
 
@@ -28,3 +29,9 @@ P(B)   = Normalization term
 - Mushroom classification with full implementation of naive bayes from scratch
 
 - Guassian Naive Bayes
+
+- Textual Data Cleaning
+
+- Textual Data Cleaning II - Working with Files
+
+- Text Classification using Multinomial naive bayes and Bernoulli naive bayes
