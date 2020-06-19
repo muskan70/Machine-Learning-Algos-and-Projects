@@ -1,6 +1,6 @@
 ## Dominant Color Extraction for Image Segmentation
 
-- **Image Segmentation**
+#### **Image Segmentation**
 
 - Segmentation partitions an image into regions having similar visual appearance corresponding to parts of objects
 
