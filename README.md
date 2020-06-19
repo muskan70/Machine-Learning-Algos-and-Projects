@@ -58,3 +58,5 @@
 4. Diabetes Classification
 
 5. Make Snapchat like filters
+
+6. Movie Review Sentiment Analysis 
