@@ -6,13 +6,13 @@
 - Finds an optimal hyperplane, that best separates our data so that the distance from nearest points in space to itself(also called margin) is maximized
 - These nearest points are called **Support Vectors**
 
-<img src="img/svm_margin.png" alt="Support Vectors" width="100",height="100"/>
+<img src="img/svm_margin.png" alt="Support Vectors" style="width: 100px;height: 100px;"/>
 
 - For the non-linearly separable case, it uses 'Kernel Trick'.
 
 ### What does hyperplane mean ?
 
-<img src="img/hyperplanes.jpg" alt="Hyperplanes" style="width: 10px;height: 10px;"/>
+<img src="img/hyperplanes.jpg" alt="Hyperplanes" style="width: 100px;height: 100px;"/>
 
 A hyperplane is plane of _n-1_ dimensions in _n_ dimensional feature space, that separates the two classes. 
 For a 2-D feature space, it would be a line and for a 3-D Feature space it would be plane and so on.
