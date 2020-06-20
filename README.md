@@ -6,13 +6,9 @@
 
 2. Opencv basics
 
-3. Numpy basics
+3. Numpy, Pandas and Linear Algebra basics
 
-4. Pandas basics
-
-5. Data Generation basics
-
-6. Data Visualization basics
+4. Data Generation and Visualization basics
 
 
 #### This repository consists of various Machine learning algorithms implemented from scratch :
@@ -60,3 +56,7 @@
 5. Make Snapchat like filters
 
 6. Movie Review Sentiment Analysis 
+
+7. Pokemon Goa Trip 
+
+8. Titanic Survivor
