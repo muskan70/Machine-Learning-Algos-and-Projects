@@ -84,6 +84,13 @@ Sklearn supports the following types of Kernels, which can be used in many-real 
 
 **Kernel trick** is method of using a linear classifer to solve a non-linear problem. It transforms the linearly in-separable data into linearly separable one.
 
+## Grid Search 
+It is used to tune parameters of an estimator.
+
+### This folder includes:
+- SVM implementation from scratch
+- SVM on non-linearly separable data with kernel Tricks
+- Grid Search
 
 
     
