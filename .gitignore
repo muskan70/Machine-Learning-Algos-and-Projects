@@ -1,2 +1,6 @@
 #ignore all npy files
 *.npy
+
+#ignore image files of image classification challenge
+Challenge/Challenge7\ -\ Pokemon\ Goa\ Trip/Train/*
+Challenge/Challenge7\ -\ Pokemon\ Goa\ Trip/Test/*
