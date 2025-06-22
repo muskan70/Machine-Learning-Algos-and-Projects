@@ -1,4 +1,4 @@
-# ML-Projects-code
+## Machine Learning Basics
 
 #### Basics of various data science libraries :
 1. [Python basics](./DataScienceLibrariesBasics/PythonBasics)
@@ -17,33 +17,19 @@
 7. [Support Vector Machines](./ML%20Algorithms/Support%20Vector%20Machines/README.md)
 8. [Decision Trees and Random Forests](./ML%20Algorithms/Decision%20Trees%20and%20Random%20Forests/README.md)
 
-#### This repository contains projects based on some of these algorithms :
+#### Projects:
+1. [MNIST Handwritten Digits Recognition](./Projects/MNIST%20Handwritten%20Digits%20Recognition%20Project)
+2. [Face Recognition](./Projects/Face%20Recognition%20project/README.md)
+3. [Movie Rating Prediction](./Projects/Movie%20Rating%20Prediction%20Project/Readme.md) 
+4. [Image Segmentation](./Projects/Image%20Segmentation%20Project/README.md) 
+5. [Image Classification](./Projects/Image%20Classification%20Project/README.md)
 
-1. MNIST Handwritten Digits Recognition
-
-2. Face Recognition
-
-3. Movie Rating Prediction 
-
-4. Image Segmentation 
-
-5. Image Classification
-
-
-#### This repository contains challenges based on some of these algorithms :
-
+#### challenges solved based on these algorithms :
 1. Hardwork Pays off
-
 2. Air Quality Prediction
-
 3. Chemicals Segregation 
-
 4. Diabetes Classification
-
 5. Make Snapchat like filters
-
 6. Movie Review Sentiment Analysis 
-
 7. Pokemon Goa Trip 
-
 8. Titanic Survivor
