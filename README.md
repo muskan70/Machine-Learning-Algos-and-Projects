@@ -24,12 +24,12 @@
 4. [Image Segmentation](./Projects/Image%20Segmentation%20Project/README.md) 
 5. [Image Classification](./Projects/Image%20Classification%20Project/README.md)
 
-#### challenges solved based on these algorithms :
-1. Hardwork Pays off
-2. Air Quality Prediction
-3. Chemicals Segregation 
-4. Diabetes Classification
-5. Make Snapchat like filters
-6. Movie Review Sentiment Analysis 
-7. Pokemon Goa Trip 
-8. Titanic Survivor
+#### Challenges solved based on these algorithms :
+1. [Hardwork Pays off](./Challenges/Challenge1%20-%20Hardwork%20Pays%20Off)
+2. [Air Quality Prediction](./Challenges/Challenge2%20-%20Air%20quality%20prediction)
+3. [Chemicals Segregation](./Challenges/Challenge3%20-%20Chemicals%20Segregation) 
+4. [Diabetes Classification](./Challenges/Challenge4%20-%20Diabetes%20Classification)
+5. [Make Snapchat like filters](./Challenges/Challenge5%20-%20Make%20snapchat%20like%20filters)
+6. [Movie Review Sentiment Analysis](./Challenges/Challenge6%20-%20Movie%20Review%20Sentiment%20Prediction) 
+7. [Pokemon Goa Trip](./Challenges/Challenge7%20-%20Pokemon%20Goa%20Trip) 
+8. [Titanic Survivor](./Challenges/Challenge8%20-%20Titanic%20Survivor)
