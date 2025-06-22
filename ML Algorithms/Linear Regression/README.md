@@ -1,7 +1,7 @@
 # Linear Regression Algorithm
 It is a supervised machine learning algorithm used to predict continuous values.
 
-### Different implementations related to linear regression algorithm :
+### Implementation :
 1. [Linear Regression Basic Implementation using gradient descent given max iterations and learning rate](./Linear%20Regression%20Basic%20Implementation.ipynb)
 2. [Linear Regression Implementation using change in error instead of max iterations](./Linear%20Regression%20implementation%20using%20change%20in%20error%20.ipynb)
 3. [Gradient Descent Visualization](./Gradient%20Descent%20visualization.ipynb)

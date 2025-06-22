@@ -9,21 +9,13 @@
 
 #### This repository consists of various Machine learning algorithms implemented from scratch :
 1. [Linear Regression](./ML%20Algorithms/Linear%20Regression/README.md)
-
-2. Logistic Regression
-
-3. K Nearest Neighbours
-
-4. Natural Language Processing
-
-5. Naive Bayes
-
-6. K Means
-
-7. Support Vector Machines
-
-8. Decision Trees and Random Forests
-
+2. [Logistic Regression](./ML%20Algorithms/Logistic%20Regression/README.md)
+3. [K Nearest Neighbours](./ML%20Algorithms/K%20Nearest%20Neighbours/README.md)
+4. [Natural Language Processing](./ML%20Algorithms/Natural%20Language%20Processing/README.md)
+5. [Naive Bayes](./ML%20Algorithms/Naive%20Bayes/README.md)
+6. [K Means](./ML%20Algorithms/K-Means%20Clustering%20/README.md)
+7. [Support Vector Machines](./ML%20Algorithms/Support%20Vector%20Machines/README.md)
+8. [Decision Trees and Random Forests](./ML%20Algorithms/Decision%20Trees%20and%20Random%20Forests/README.md)
 
 #### This repository contains projects based on some of these algorithms :
 

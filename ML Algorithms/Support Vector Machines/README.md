@@ -20,8 +20,6 @@ For a 2-D feature space, it would be a line and for a 3-D Feature space it would
 
 <img src="img/3d_hyperplane.png" alt="Hyperplanes" width="300" height="300" />
 
-
-
 A hyperplane is able to separate classes if for all points -
 
 #### **_w_ x** + b > 0 
@@ -59,7 +57,7 @@ w=theta
 b=bias/intercept
 
 
-## Non-Linear Classification
+### Non-Linear Classification
 - In many real life problems, the data is not linearly separable,but we need to classify the data. This can be done using by projecting the data to higer dimesions so that it becomes linearly separable.
 <img src="img/linearly_separable.png" alt="Linear Separable" width="500" height="200"/>
 
@@ -84,13 +82,13 @@ Sklearn supports the following types of Kernels, which can be used in many-real 
 
 **Kernel trick** is method of using a linear classifer to solve a non-linear problem. It transforms the linearly in-separable data into linearly separable one.
 
-## Grid Search 
+### Grid Search 
 It is used to tune parameters of an estimator.
 
-### This folder includes:
-- SVM implementation from scratch
-- SVM on non-linearly separable data with kernel Tricks
-- Grid Search
+### Implementation:
+- [SVM implementation from scratch](./SVM%20Implementation%20from%20scratch.ipynb)
+- [SVM on non-linearly separable data with kernel Tricks](./SVM%20on%20Non%20Linearly%20Separable%20data%20.ipynb)
+- [Grid Search](./Grid%20Search%20Implementation.ipynb)
 
 
     
