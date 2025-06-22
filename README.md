@@ -1,19 +1,14 @@
 # ML-Projects-code
 
-#### This repository consists of basics of various libraries :
-
-1. Python basics
-
-2. Opencv basics
-
+#### Basics of various data science libraries :
+1. [Python basics](./DataScienceLibrariesBasics/PythonBasics)
+2. [Opencv basics](./DataScienceLibrariesBasics/OpencvBasics/README.md)
 3. Numpy, Pandas and Linear Algebra basics
-
-4. Data Generation and Visualization basics
+4. [Data Generation and Visualization basics](./DataScienceLibrariesBasics/DataGenerationAndVisualizationBasics/README.md)
 
 
 #### This repository consists of various Machine learning algorithms implemented from scratch :
-
-1. Linear Regression
+1. [Linear Regression](./ML%20Algorithms/Linear%20Regression/README.md)
 
 2. Logistic Regression
 
